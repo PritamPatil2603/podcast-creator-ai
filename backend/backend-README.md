@@ -10,8 +10,6 @@ Convert YouTube videos and/or research topics into high-quality podcast conversa
 📋 **Smart Metadata**: Auto-generated titles and descriptions  
 ⏱️ **Flexible Duration**: 4-6 minute professional podcasts
 
-![podcast-creator-workflow](https://github.com/user-attachments/assets/85067de9-3c36-47b8-ae06-29b00746036f)
-
 ## Quick Start
 
 ### Prerequisites
